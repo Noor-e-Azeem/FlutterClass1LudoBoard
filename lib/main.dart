@@ -321,8 +321,8 @@ class MyApp extends StatelessWidget {
 
 Widget EachUnit(Color myColor) {
   return Container(
-    width: 30,
-    height: 30,
+    width: 25,
+    height: 25,
     color: myColor,
     child: Container(
       decoration: BoxDecoration(
